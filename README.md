@@ -25,3 +25,12 @@ Follow these steps to deploy the Python Flask application to Kubernetes using He
 
 - Adjust the Kubernetes YAML templates as needed based on your application's requirements.
 - Ensure that Helm and Kubernetes are properly configured before deploying the application.
+
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
