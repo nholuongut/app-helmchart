@@ -1,2 +1,1 @@
-> ✅ Updated docs with improved formatting or extra info.
-
+# Update format for README.md
